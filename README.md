@@ -19,8 +19,8 @@ The project combines SQL for data analysis and Power BI for interactive data vis
 
 * MySQL
 * Power BI
-* SQL
 * DAX
+* python
 
 ## Key Insights
 
@@ -30,11 +30,4 @@ The project combines SQL for data analysis and Power BI for interactive data vis
 * Compared insurance provider contributions.
 * Built KPIs and visualizations to support healthcare decision-making.
 
-## Dashboard Features
 
-* Executive Overview
-* Hospital Performance Analysis
-* Medical Condition Analysis
-* Insurance Analysis
-* Length of Stay Analysis
-* Interactive Filters and Drill-Down Capabilities
